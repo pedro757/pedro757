@@ -5,3 +5,4 @@
 - 📫 How to reach me: 
   - [Telegram](https://t.me/pedro13sj)
   - pedro13jzc@gmail.com
+  - [Linkedin](https://www.linkedin.com/in/sanchezjozic/)
