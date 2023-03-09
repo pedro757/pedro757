@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on open source projects (For Fun).
+- 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on Neovim community.
 - 📫 How to reach me: 
   - [Telegram](https://t.me/pedro13sj)
