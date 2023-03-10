@@ -19,4 +19,4 @@ Everyday, I'm improving my skills and trying to become a better version of me.
 
 - 🔭 I’m currently working on open source projects (For Fun).
 - 🌱 I’m currently learning Rust.
-- 👯 I’m looking to collaborate on Neovim community.
+- 👯 I’m looking to collaborate on the Neovim community.
