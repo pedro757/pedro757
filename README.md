@@ -28,6 +28,8 @@ Everyday, I'm improving my skills and trying to become a better version of me.
   <img src="https://skillicons.dev/icons?i=html,css,prisma,neovim,express,python,lua,postgresql" />
 </p>
 
+---
+
 - 🔭 I’m currently working on open source projects (For Fun).
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on the Neovim community.
