@@ -12,10 +12,25 @@
   </a>
 </p>
 
+---
+
 I'm a Full-stack JavaScript developer with a passion of creating impactful and
 scalable web applications with using latest trends and technolgies. I love to
 contributing in open-source projects and collaborating with commnunites.
 Everyday, I'm improving my skills and trying to become a better version of me.
+
+---
+
+<p align="center">
+  <a href="https://rupali-codes.netlify.app">
+    <img src="https://skillicons.dev/icons?i=js,next,react,typescript,tailwind,rust,nodejs,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://rupali-codes.netlify.app">
+    <img src="https://skillicons.dev/icons?i=html,css,prisma,neovim,express,python,lua,postgresql" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on open source projects (For Fun).
 - 🌱 I’m currently learning Rust.
