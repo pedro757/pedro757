@@ -7,7 +7,7 @@
   <a href="https://t.me/pedro13sj">
     <img src="https://img.shields.io/badge/Telegram-7a5c4b?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/rupali-codes">
+  <a href="https://www.linkedin.com/in/sanchezjozic">
     <img src="https://img.shields.io/badge/LinkedIn-7a5c4b?style=for-the-badge"/>
   </a>
 </p>
@@ -22,14 +22,10 @@ Everyday, I'm improving my skills and trying to become a better version of me.
 ---
 
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=js,next,react,typescript,tailwind,rust,nodejs,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,next,react,typescript,tailwind,rust,nodejs,mysql" />
 </p>
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,prisma,neovim,express,python,lua,postgresql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,prisma,neovim,express,python,lua,postgresql" />
 </p>
 
 - 🔭 I’m currently working on open source projects (For Fun).
