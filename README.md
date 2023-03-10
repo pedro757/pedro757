@@ -1,9 +1,22 @@
-### Hi there 👋
+![header image](huge.png)
+
+<p align="center">
+  <a href="mailto:pedro.sanchez.jozic@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7a5c4b?style=for-the-badge"/>
+  </a>
+  <a href="https://t.me/pedro13sj">
+    <img src="https://img.shields.io/badge/Telegram-7a5c4b?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rupali-codes">
+    <img src="https://img.shields.io/badge/LinkedIn-7a5c4b?style=for-the-badge"/>
+  </a>
+</p>
+
+I'm a Full-stack JavaScript developer with a passion of creating impactful and
+scalable web applications with using latest trends and technolgies. I love to
+contributing in open-source projects and collaborating with commnunites.
+Everyday, I'm improving my skills and trying to become a better version of me.
 
 - 🔭 I’m currently working on open source projects (For Fun).
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on Neovim community.
-- 📫 How to reach me: 
-  - [Telegram](https://t.me/pedro13sj)
-  - pedro.sanchez.jozic@gmail.com
-  - [Linkedin](https://www.linkedin.com/in/sanchezjozic/)
