@@ -31,5 +31,5 @@ Everyday, I'm improving my skills and trying to become a better version of me.
 ---
 
 - 🔭 I’m currently working on open source projects (For Fun).
-- 🌱 I’m currently learning Rust.
+- ❤️ Rustacean FTW.
 - 👯 I’m looking to collaborate on the Neovim community.
