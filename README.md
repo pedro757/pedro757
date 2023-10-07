@@ -14,9 +14,9 @@
 
 ---
 
-I'm a Full-stack JavaScript developer with a passion of creating impactful and
-scalable web applications with using latest trends and technolgies. I love to
-contributing in open-source projects and collaborating with commnunites.
+I'm a Full-stack JavaScript developer with a passion for creating impactful and
+scalable web applications with using latest trends and technolgies. I love
+contributing to open-source projects and collaborating with commnunites.
 Everyday, I'm improving my skills and trying to become a better version of me.
 
 ---
