@@ -14,7 +14,7 @@
 
 ---
 
-I'm a Full-stack JavaScript developer with a passion for creating impactful and
+I'm the creatof of [Amable Conti](https://www.amableconti.com) a Full-stack JavaScript developer, with a passion for creating impactful and
 scalable web applications with using latest trends and technolgies. I love
 contributing to open-source projects and collaborating with commnunites.
 Everyday, I'm improving my skills and trying to become a better version of me.
@@ -30,6 +30,4 @@ Everyday, I'm improving my skills and trying to become a better version of me.
 
 ---
 
-- 🔭 I’m currently working on open source projects (For Fun).
-- ❤️ Rustacean FTW.
-- 👯 I’m looking to collaborate on the Neovim community.
+- 🔭 I’m currently working on [Amable Conti](https://www.amableconti.com).
